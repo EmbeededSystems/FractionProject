@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1648349842 source:c:\users\joukh\documents\codeblocksprojects\fractionproject\main.cpp
+	<iostream>
+	"Fraction.h"
+
+1648323938 c:\users\joukh\documents\codeblocksprojects\fractionproject\fraction.h
+	<iostream>
+
+1648349831 source:c:\users\joukh\documents\codeblocksprojects\fractionproject\fraction.cpp
+	<iostream>
+	<stdlib.h>
+	"Fraction.h"
+
